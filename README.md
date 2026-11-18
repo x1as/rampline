@@ -1,5 +1,7 @@
 <p align="center"><img src="docs/screenshots/01.png" alt="RAMPLINE: меню и демо-заезд бота на карте Daybreak" width="100%"></p>
 
+<p align="center"><img src="src/icons/icon-192.png" alt="" width="72"></p>
+
 <h1 align="center">RAMPLINE</h1>
 
 <p align="center">
